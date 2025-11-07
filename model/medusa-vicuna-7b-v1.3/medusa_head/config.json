@@ -1,0 +1,6 @@
+{
+  "base_model_name_or_path": "./vicuna-7b-v1.3",
+  "medusa_num_heads": 2,
+  "medusa_num_layers": 1,
+  "transformers_version": "4.31.0"
+}
