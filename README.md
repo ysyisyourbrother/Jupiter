@@ -29,8 +29,6 @@ In the prefill stage, Jupiter introduces a novel intra-sequence pipeline paralle
   </picture>
 </div>
 
-*This repository provides an initial end-to-end demo of the system, with more internal components and performance optimizations under active development*.
-
 ## Performance Evaluation
 
 Extensive evaluation based on realistic implementation demonstrates that Jupiter remarkably outperforms state-of-the-art
